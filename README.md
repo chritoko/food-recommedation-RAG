@@ -1,0 +1,4 @@
+I created a RAG chatbot that provides intelligent food recommendations using Chroma DB and natural language processing by understanding user queries and provide contextual food recommendations.
+I built interactive CLI interfaces for real-time food search and recommendation and executed CRUD operations on vector databases with immediate search result updates.
+Also, I implemented advanced search filtering with cuisine type, calorie restrictions, ingredient matching and I had three distinct approaches to similarity search [1. Interactive search: basic similarity search  2. Advanced Search: combine similarity search with metadata filtering to provide more targeted results   3.RAG chatbot:  combination of ChromaDB similarity search with IBM's Granite language model to provide contextual responses ]
+Finally i created a system comparison script to see in which cases each approach was fitting best.
